@@ -165,3 +165,10 @@ These insights can help businesses make informed decisions related to inventory 
 ---
 
 ## Output
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/8ea29401-db71-440f-b8fc-6019e5f9c84e" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/3e80c77b-700e-4ad1-8472-7f25f9b242ae" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/c298cdaa-90ad-41f9-b761-922a7dd2bbbd" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/81b438ac-4317-4e29-bc81-ce49e2dc783c" />
+<img width="939" height="1020" alt="Image" src="https://github.com/user-attachments/assets/cd69bed6-5e3e-4b01-99e6-7dbc059068d7" />
+
+---
